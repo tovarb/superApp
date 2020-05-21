@@ -11,4 +11,4 @@ Super App an online supermarket.
 * Angular 
 
 
-![View main page](assets/images/super-app.png)
+![View main page](super-app.png)
